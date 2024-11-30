@@ -26,9 +26,13 @@ A comprehensive Python-based data analysis project focusing on the Indian Electr
   - `jupyter`: Interactive development
 
 ## 📊 Project Structure
-- `Data_Analysis_Data_About_Indian_EV.ipynb`: Main Jupyter notebook containing the analysis
-- `README.md`: Project documentation
-- `LICENSE.txt`: MIT License file
+```
+0_case_study/
+├── 20231201_Indian_EV_Analysis/    # Main analysis directory
+│   └── (analysis files and data)
+├── Data_Analysis_Data_About_Indian_EV.ipynb    # Main Jupyter notebook
+└── README.md                       # Project documentation
+```
 
 ## 🔧 Setup and Installation
 
